@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/12/26 13:33:49。
+     1>项目“D:\myself\老龙\ClistctrlTest\ClistctrlTest\ClistctrlTest.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /D _AFXDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt ClistctrlTest.cpp ClistctrlTestDlg.cpp stdafx.cpp
+         ClistctrlTest.cpp
+         ClistctrlTestDlg.cpp
+         stdafx.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _AFXDLL /l"0x0409" /nologo /fo"x64\Release\ClistctrlTest.res" ClistctrlTest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\myself\老龙\ClistctrlTest\x64\Release\ClistctrlTest.exe" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /PDB:"D:\myself\老龙\ClistctrlTest\x64\Release\ClistctrlTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\myself\老龙\ClistctrlTest\x64\Release\ClistctrlTest.lib" /MACHINE:X64 x64\Release\ClistctrlTest.res
+         x64\Release\ClistctrlTest.obj
+         x64\Release\ClistctrlTestDlg.obj
+         x64\Release\stdafx.obj
+         ClistctrlTest.vcxproj -> D:\myself\老龙\ClistctrlTest\x64\Release\ClistctrlTest.exe
+     1>已完成生成项目“D:\myself\老龙\ClistctrlTest\ClistctrlTest\ClistctrlTest.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.29
